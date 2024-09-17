@@ -53,7 +53,6 @@ function test() {
 ## Tables
 
 | Language   | Rating |
-
 | --------   | ------ |
 | HTML       | 5      |
 | Javascript | 7      |
