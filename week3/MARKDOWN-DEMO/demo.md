@@ -29,3 +29,9 @@ This is an unordered list:
 ## Links
 
 This is a link to [my portfolio](https://github.com/Jnlpatel)
+
+## Images
+
+This is an image:
+
+![Education](edu.png)
