@@ -1,12 +1,25 @@
-# http5114-2024
+# Workshops in Web Development 1 - HTTP5114
 
-All Files related to course.
+![GitHub](/images/github.png)
 
-## Starting a New Project
+Detailed course for Workshops in Web Dev 1 which covers basics of git.
 
-1. Make a New repo on github.com
-2. Open your terminal
-3. Navigate your terminal to project destination
-4. Clone the repo
-5. Change directory to the new folder
-6. Open VSCode and point it to the same folder
+[My github profile](https://github.com/Jnlpatel)
+
+> [!Note]  
+> You can learn Git from : [W3Schools](https://www.w3schools.com/git/).
+
+
+> Sample Code
+```git
+
+git --version
+
+git status
+
+git add.
+
+git commit -am ""
+
+git push
+```
